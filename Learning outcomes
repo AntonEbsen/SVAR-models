@@ -1,0 +1,24 @@
+After completing the course the student is expected to be able to:
+
+Knowledge:
+- Identify and distinguish between stationary and nonstationary VAR models.
+- Estimate, interpretate and identificate the structural VAR models.
+- Distinguish and assess alternative approaches to identify structural VARs.
+- Inference in structural VARs.
+- Evaluate and compare empirical results from other approaches (DSGE models) with structural VARs.
+- Formulate economic hypotheses used as restrictions when identifying structural VARs including cointegration restrictions. 
+
+Skills:
+- Specify and estimate structural VAR models.
+- Estimate structural VAR models applying different types of identification and assess whether the model is exact-, under- or overidentified. 
+- Apply structural VARs to the analysis of macroeconomic
+- Analyze the VAR model for variables integrated of order two and perform a nominal-to-real transformation.
+- Analyze economic data using structural VAR models and assess the empirical results.
+- Use MATLAB to analyze new data sets using pre-programmed modules and program new procedures.   
+- Identify the model given the data generating process and to program the chosen method in MATLAB.
+
+Competencies:
+- Independently formulate and analyze structural VARs for new economic problems.
+- Formulate hypotheses used to identify structural VARs derived from economic theory.
+- Apply economic theory to obtain an understanding of the mechanisms governing the dynamics of a certain data set.
+- Use and design new programs in MATLAB.
